@@ -14,7 +14,7 @@ import { NgModule } from '@angular/core';
 // import { MatDividerModule } from '@angular/material/divider';
 // import { MatExpansionModule } from '@angular/material/expansion';
 // import { MatGridListModule } from '@angular/material/grid-list';
-// import { MatIconModule } from '@angular/material/icon';
+import { MatIconModule } from '@angular/material/icon';
 // import { MatInputModule } from '@angular/material/input';
 // import { MatListModule } from '@angular/material/list';
 // import { MatMenuModule } from '@angular/material/menu';
@@ -52,7 +52,7 @@ import { NgModule } from '@angular/core';
     // MatDividerModule,
     // MatExpansionModule,
     // MatGridListModule,
-    // MatIconModule,
+    MatIconModule,
     // MatInputModule,
     // MatListModule,
     // MatMenuModule,
@@ -91,7 +91,7 @@ import { NgModule } from '@angular/core';
     // MatDividerModule,
     // MatExpansionModule,
     // MatGridListModule,
-    // MatIconModule,
+    MatIconModule,
     // MatInputModule,
     // MatListModule,
     // MatMenuModule,
