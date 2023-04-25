@@ -12,3 +12,19 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
     background-color: #9993;
     border-radius: 8px;
 }
+
+.capitals-widget{
+    background-color: white;
+    border-radius: 30px;
+    width: 270px;
+    padding: 4px;
+    cursor: pointer;
+}
+
+.country-widget{
+    font-size: 13px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    width: 88px;
+    overflow: hidden;
+}

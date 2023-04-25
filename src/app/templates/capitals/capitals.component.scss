@@ -19,25 +19,9 @@ h1{
     font-size: 40px;
 }
 
-.capitals-widget{
-    background-color: white;
-    border-radius: 30px;
-    width: 270px;
-    padding: 4px;
-    cursor: pointer;
-}
-
-.country-widget{
-    font-size: 13px;
-    white-space: nowrap;
-    text-overflow: ellipsis;
-    width: 88px;
-    overflow: hidden;
-}
-
 .list-of-capitals{
     margin-top: 7%;
     height: 82%;
     overflow: auto;
-    width: 23%;
+    width: 24%;
 }
